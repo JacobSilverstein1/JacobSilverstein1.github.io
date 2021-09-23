@@ -17,7 +17,7 @@ with a base-10 system, allowing one to easily translate between units using scie
 requires some wacky conversions, like 5280 feet to a mile. Furthermore, the metric system has units that are both extremely 
 large and extremely small for measurement, and it is easy to describe the relationship between two units in terms of just 
 multiplying or dividing by 10^x. This lack of intuitiveness and impracticality of conversions of the imperial system explains 
-why nearly all countries and every scientist uses the metric system for measurements. 
+why nearly all countries and every scientist uses the metric system for measurements.  
 
 
 

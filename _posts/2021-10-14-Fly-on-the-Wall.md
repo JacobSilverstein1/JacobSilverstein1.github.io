@@ -13,3 +13,10 @@
 
   For this lab, I worked with Monsieur Zachary Q. Ludwig and Mr. Samuel L. Korff. The simple method that we enacted was standing towards in a corner of a room of the library and observing for a short period, while making sure that we didn't appear too weird so as to influence the actions of others. Then, we would move and repeat. We found that this method was generally effective, and allowed us to get a good glimpse into what was happening in the library. Of course, the idea of a "Fly on the Wall" lab is to be stealthy and essentially invisible, and our presence likely influenced some events in the library (for example, some of our friends came up and tried to talk to us), but we tried to be quiet and not noticeable. Something that maybe we could have done better is go to more places within the school. Although the library like a microcosm of the larger school, we could have gone to an environment where people wouldn't be so focused on work, like the field, gym, or cafeteria. In this lab, I learned a little about how observant we can be if we want to. For a lot of the observations we made, I felt that I had noticed it before, but never thought it was anything special or out of the ordinary. This lab helped me tone my powers of perception, and I think I will take use these lessons I have learned about observation and apply them when I am walking around the school, at home, or really anywhere else. 
 
+###### Images
+
+Here are Some Images I Drew of Happenings in the Library:
+
+
+
+

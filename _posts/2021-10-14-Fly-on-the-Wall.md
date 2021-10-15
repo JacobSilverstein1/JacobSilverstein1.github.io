@@ -1,6 +1,6 @@
 ## Describing and Analyzing Observations at Horace Mann
 
-#### Summary and Analysis of Observations
+### Summary and Analysis of Observations
 
   In trying to observe people, we went to a place where we knew we would see lots of interactions between not only people, but people and the environment: the library. We noted some things about the types of activities people engaged in. We first noticed that people liked eating the snacks in the library, including the mints that were on a cart towards the back of the library. This brought up the question of whether there were enough other sources of food on campus and whether the library was serving as a de facto cafeteria during F-H periods. We also noticed that people were largely doing their homework at the desks, but some people enjoyed sitting in the comfy chairs to do homework. Another observation we made was that when people sat in the pods, the chairs that are kind of a sphere in which there are pillows and you can sit, they didn't do work, but just relaxed there. This brought up the question of comfort. People clearly liked sitting in the chairs even though it would be harder to get work done there, so was the library not providing enough comfortable environments in which people could get work done? Were the chairs too uncomfortable?
 
@@ -9,13 +9,15 @@
   Then, we looked at the objects in the environment. We found that most objects in the library have one clear use: printers, study rooms, chairs, and textbooks, for example. We noted that the lights were actually an object, and they did not always work. Also, we observed that the whiteboards in the study room were often used, though they don't exist outside of those study rooms, telling us that it might be helpful to put whiteboards throughout other parts of the library. We found that the markers given out by the library often didn't work, and that there was no water in the library, leading us to decide that we needed a water refill station in the library (the closest one is by the second floor bathroom, which is inconvenient). Finally, in terms of users, we noted just students and librarians. 
 
 
-#### Description of Methodology
+### Description of Methodology
 
   For this lab, I worked with Monsieur Zachary Q. Ludwig and Mr. Samuel L. Korff. The simple method that we enacted was standing towards in a corner of a room of the library and observing for a short period, while making sure that we didn't appear too weird so as to influence the actions of others. Then, we would move and repeat. We found that this method was generally effective, and allowed us to get a good glimpse into what was happening in the library. Of course, the idea of a "Fly on the Wall" lab is to be stealthy and essentially invisible, and our presence likely influenced some events in the library (for example, some of our friends came up and tried to talk to us), but we tried to be quiet and not noticeable. Something that maybe we could have done better is go to more places within the school. Although the library like a microcosm of the larger school, we could have gone to an environment where people wouldn't be so focused on work, like the field, gym, or cafeteria. In this lab, I learned a little about how observant we can be if we want to. For a lot of the observations we made, I felt that I had noticed it before, but never thought it was anything special or out of the ordinary. This lab helped me tone my powers of perception, and I think I will take use these lessons I have learned about observation and apply them when I am walking around the school, at home, or really anywhere else. 
 
-###### Images
+#### Images
 
 Here are Some Images I Drew of Happenings in the Library:
+
+![Crepe](IMG_2748.jpeg)
 
 
 

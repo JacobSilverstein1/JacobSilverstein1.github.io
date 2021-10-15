@@ -17,7 +17,7 @@
 
 Here are Some Images I Drew of Happenings in the Library:
 
-![Picture1](IMG_2748.jpeg)
+![Picture1](JacobSilverstein1.github.io/assets/img/IMG_2748)
 
 
 

@@ -1,10 +1,11 @@
 	<html> 
 	<head>
-<title> The Cowboys will Go 12-5 This Year and Lose in the NFC Championship </title>
+<title> Cowboys Rule </title>
 	</head>
 	<body>
 
 	<h1> A Rebuttal of False and Malicious Statements Made by Other Gentlemen on this Website </h1>
+	<h2> by Jacob Silverstein </h2>
 	
 <a href="index.html"> In Case You Don't Want to Understand Why the Cowboys are a Top 5 Team in the NFL</a> 
 
